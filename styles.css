@@ -1,0 +1,332 @@
+.Main-container {
+    display: flex;
+}
+
+.Header-container {
+    height: 40px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    padding-top: 0.2%;
+}
+
+.Logo-container {
+    height: 40px;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+}
+
+.Logo-container-img {
+    height: 25px;
+    width: 100px;
+    padding-left: 15%;
+    padding-top: 4%;
+}
+
+.Text-container {
+    height: 40px;
+    width: 35%;
+    background-color: rgb(255, 255, 255);
+    margin-left: 20%;
+}
+
+.Text-container-input {
+    width: 90%;
+    height: 30px;
+    margin-top: 0.6%;
+    margin-left: 1%;
+    border-radius: 14px;
+    text-decoration: none;
+    border-color: rgb(67, 48, 48);
+    border-style: none;
+
+    border-color: rgba(110, 45, 45, 0.3);
+
+}
+
+.Mic-container {
+    height: 40px;
+    width: 40px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 0%;
+}
+
+.Mic-container-mic {
+    height: 15px;
+    width: 14px;
+    padding-top: 17%;
+
+}
+
+
+.Video-container-video {
+    height: 20px;
+    width: 20px;
+}
+
+.Notification-container {
+    height: 40px;
+    width: 40px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 0.6%;
+}
+
+.Notification-container-bell {
+    height: 20px;
+    width: 20px;
+}
+
+.Account-container {
+    height: 40px;
+    width: 40px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 0.6%;
+}
+
+.Account-container-user {
+    height: 20px;
+    width: 20px;
+}
+
+.Secondary-container {
+    height: 820px;
+    width: 100%;
+    background-color: grey;
+    display: flex;
+}
+
+.Sidebar-container {
+    height: 820px;
+    width: 42px;
+    background-color: rgb(255, 255, 255);
+}
+
+.Suggestion-container {
+    height: 820px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.Video-section {
+    height: 280px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.suggestion {
+    width: 100%;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 0.3%;
+}
+
+.suggestion-ALLbutton {
+    height: 20px;
+    width: 2%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+    border-radius: 5px;
+    border-style: none;
+    font-family: Arial;
+    background-color: rgb(0, 0, 0);
+    font-size: 12px;
+    color: white;
+}
+
+.suggestion-button {
+    height: 20px;
+    width: 4%;
+    margin-top: 0.6%;
+    margin-left: 1%;
+    border-radius: 5px;
+    border-style: none;
+    font-family: Arial;
+    background-color: rgb(255, 244, 244);
+    font-size: 12px;
+    font-size: 11px;
+}
+
+.suggestion-ALLbutton:hover {
+    background-color: lightgrey;
+}
+
+.suggestion-button:hover {
+    background-color: lightgrey;
+}
+
+.Secondary-container-side-menu {
+    margin-top: 1%;
+    height: 45px;
+    width: 40px;
+    background-color: rgb(255, 255, 255);
+}
+
+.Secondary-container-home {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 40%;
+}
+
+.HamburgerMenu {
+    height: 20px;
+    width: 20px;
+    margin-left: 20%;
+    margin-top: 24%;
+}
+
+.Sidebar-container-homeButton {
+    height: 15px;
+    width: 15px;
+    margin-left: 28%;
+    margin-top: 24%;
+}
+
+.Sidebar-container-home-text {
+    font-size: 10px;
+    font-family: Arial;
+    margin-left: 17%;
+
+
+}
+
+.Sidebar-container-Button-text {
+    font-size: 9px;
+    margin-left: 17%;
+    font-family: Arial;
+}
+
+.Sidebar-container-shorts {
+    height: 20px;
+    width: 20px;
+    margin-left: 20%;
+    margin-top: 24%;
+}
+
+.Secondary-container-Subscription {
+    height: 23px;
+    width: 23px;
+    margin-left: 20%;
+    margin-top: 24%;
+}
+
+.Sidebar-container-Button-text-subscription {
+    font-size: 9px;
+    font-family: Arial;
+}
+
+.Sidebar-container-libraryButton {
+    height: 22px;
+    width: 22px;
+    margin-left: 20%;
+    margin-top: 24%;
+}
+
+.Video-container {
+    height: 40px;
+    width: 40px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 25%;
+}
+
+.Video-Box {
+    height: 250px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 10px;
+    margin-left: 1%;
+}
+
+.Video-IMG {
+    height: 180px;
+    width: 300px;
+    background-color: cadetblue;
+    border-radius: 10px;
+}
+
+.Video-IMG {
+    height: 180px;
+    width: 300px;
+}
+
+.Video-information {
+    height: 24px;
+    width: 300px;
+    background-color: chocolate;
+    display: flex;
+}
+
+.Video-Title {
+    height: 24px;
+    width: 240px;
+    background-color: rgb(255, 255, 255);
+}
+
+.Video-Logo {
+    height: 50px;
+    width: 60px;
+    background-color: rgb(255, 255, 255);
+}
+
+.Channel-logo {
+    height: 32px;
+    width: 32px;
+    margin-left: 15%;
+    margin-top: 6%;
+    border-radius: 50px;
+}
+
+.Video-Heading {
+    margin-top: 1%;
+    font-size: 13px;
+    font-family: Roboto;
+    font-weight: 580;
+
+}
+
+.Channel-Bottom {
+    height: 20px;
+    width: 230px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 20%;
+    margin-bottom: 20%;
+
+}
+
+.Channel-Name {
+    margin-top: 0;
+    font-size: 13px;
+    font-family: Roboto;
+    color: rgb(138, 132, 132);
+
+}
+
+.Video-Stats {
+    margin-top: 0;
+
+    height: 200px;
+    width: 300px;
+    background-color: rgb(160, 35, 35);
+}
+
+.Channel-Stats {
+    margin-top: 0%;
+    font-size: 13px;
+    font-family: Roboto;
+    color: rgb(138, 132, 132);
+}
+
+.Video-bottom {
+    display: grid;
+}
+
+.Second-Grid {
+    height: 280px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    margin-top: 0.1%;
+    flex-wrap: wrap;
+}
